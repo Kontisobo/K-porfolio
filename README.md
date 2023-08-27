@@ -11,6 +11,9 @@
 Тестирование требований на соответствие "свойствам качественных требований", тестирование user-stories по модели INVSEST.
 ## Контакты:
 Email: k.tishin1992@gmail.com
+
 LinkedIn:
+
 Telegram: kladeteam
+
 WhatsApp: +79651470040
