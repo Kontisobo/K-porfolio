@@ -17,3 +17,7 @@ LinkedIn:
 Telegram: kladeteam
 
 WhatsApp: +79651470040
+
+## Документы
+С удовольствием предоставляю ссылку на мою курсовую работу, содержащую всю необходимую информацию.
+https://drive.google.com/drive/folders/1uY3r9D2IWHvqZ7wfjzbnw6cCseAWXLbc?usp=sharing
